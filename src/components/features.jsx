@@ -34,7 +34,7 @@ const Features = () => {
             <span className="text-blue-600">Analytica Data</span>
           </h2>
           <p className="text-lg text-gray-600 mb-14 max-w-2xl mx-auto">
-            Powerful tools to unlock business insights with ease.
+            Analytica Data turns complex data into clear, actionable insights.
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">

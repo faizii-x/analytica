@@ -16,6 +16,9 @@ export default function App() {
     AOS.init({
       duration: 1400,
       once: true,
+      disable: function() {
+        return window.innerWidth < 768;  
+      },
     });
   }, []);
 
